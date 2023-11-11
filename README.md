@@ -49,10 +49,8 @@ These write-ups have been thoughtfully crafted to provide <b>step-by-step soluti
 | [Names-Addresses](Network/Names_Addresses/Names_Addresses.md)          | 50  |
 | [FF D8](Network/FF_D8/FF_D8.md)                                        | 90  |
 ## Reverse
-<p align="center">
-<img src="https://github.com/mtalbugaey/UNSEEN-Flag-2-CTF-Writeups/assets/126514202/3a333635-6dc9-437a-bf24-0859268c213f" width="500" height="300">
-</p>
-
 | Challenge Name  | Points  |
 |-----------------|---------|
-| [Authentication ID](Reverse/AuthenticationID/AuthenticationID.md)      | 80  |
+| [Authentication ID](Reverse/AuthenticationID/AuthenticationID.md)      | 80  | 
+
+
