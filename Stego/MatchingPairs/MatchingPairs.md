@@ -8,6 +8,7 @@ My other half is missing, try to find us
 
 # Challenge Files
 [Foreground.png](./Foreground.png)
+<br>
 [Background.png](./Background.png)
 
 # Solution
