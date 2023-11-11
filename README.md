@@ -2,7 +2,7 @@
 # Challenges
 | Challenge Name | Category | Points  |
 |----------------------|------------|-----|
-| Matryoshka Dolls     | Stego      | 30  |
+| [Matryoshka Dolls](./Stego/MatryoshkaDolls.md)     | Stego      | 30  |
 | Matching Pairs       | Stego      | 60  |
 | Pink Layers          | Stego      | 80  |
 | Hear me out          | Stego      | 80  |
