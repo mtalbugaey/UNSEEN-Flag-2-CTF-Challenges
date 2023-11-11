@@ -3,6 +3,7 @@
 <img src="https://github.com/mtalbugaey/UNSEEN-Flag-2-CTF-Writeups/assets/126514202/9e238826-eb47-422c-af68-1d11571ac763" width="600" height="400">
 </p>
 
+<p align="justify">
 UNSEEN CTF event conducted at IAU specifically for students. Our CTF (Capture The Flag) competition featured diverse categories including Forensics, Crypto, Stego, and Network, each offering a range of challenges at different difficulty levels. 
 <br>
 <br>
@@ -12,6 +13,8 @@ To assist participants in their quest for victory, we have meticulously prepared
 These write-ups have been thoughtfully crafted to provide step-by-step solutions, enabling participants to tackle the challenges with confidence and expertise, regardless of their level of difficulty.
 <br>
 <br>
+</p>
+
 # Challenges
 | Challenge Name | Category | Points  |
 |----------------------|------------|-----|
