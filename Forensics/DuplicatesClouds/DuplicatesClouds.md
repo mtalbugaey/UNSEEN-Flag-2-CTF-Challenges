@@ -8,7 +8,7 @@ Be careful and wear glasses ;P
 
 
 # Challenge File
-[Duplicates.zip.jpg](./Duplicates.zip.jpg)
+[Duplicates.zip](./Duplicates.zip.jpg)
 
 # Solution
 
