@@ -2,7 +2,7 @@
 Matryoshka dolls are interesting ;)
 
 # Challenge File
-[Matryoshka_dolls.jpg](Stego/MatryoshkaDolls/Matryoshka_dolls.jpg)
+[Matryoshka_dolls.jpg](./Matryoshka_dolls.jpg)
 
 # Solution
 
