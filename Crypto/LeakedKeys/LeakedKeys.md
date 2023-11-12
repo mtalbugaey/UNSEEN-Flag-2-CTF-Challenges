@@ -14,7 +14,7 @@ oops!! I believe some of the RSA keys were leaked.
 When opening the Python file, we can see three keys were leaked (P, N, and e).
 <br>
 <br>
-<kbd><img src="https://github.com/mtalbugaey/UNSEEN-Flag-2-CTF-Writeups/assets/126514202/60a125e0-2b98-439b-bb37-a541acf89a2a" width="1000" style="border: 3px solid black"></kbd>
+<kbd><img src="https://github.com/mtalbugaey/UNSEEN-Flag-2-CTF-Writeups/assets/126514202/60a125e0-2b98-439b-bb37-a541acf89a2a" width="1000"></kbd>
 <br><br>
 We can take advantage of these keys to calculate the other keys needed by using any online RSA calculater.
 <br>
