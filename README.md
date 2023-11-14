@@ -1,6 +1,6 @@
 # UNSEEN-Flag-2-CTF-Writeups
 <p align="center">
-<img src="https://github.com/mtalbugaey/UNSEEN-Flag-2-CTF-Writeups/assets/126514202/9e238826-eb47-422c-af68-1d11571ac763" width="550" height="400">
+<img src="https://github.com/mtalbugaey/UNSEEN-Flag-2-CTF-Writeups/assets/126514202/9e238826-eb47-422c-af68-1d11571ac763" width="550" height="370">
 </p>
 
 <p align="justify">
